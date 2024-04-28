@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/forrest321/go-tile38-client"
 	geojson "github.com/paulmach/go.geojson"
 	"github.com/stretchr/testify/require"
-	"github.com/xjem/t38c"
 )
 
 func testKeys(t *testing.T, client *t38c.Client) {

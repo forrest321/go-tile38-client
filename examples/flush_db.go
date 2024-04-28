@@ -7,7 +7,7 @@ import (
 	"context"
 	"log"
 
-	"github.com/xjem/t38c"
+	"github.com/forrest321/go-tile38-client"
 )
 
 /*

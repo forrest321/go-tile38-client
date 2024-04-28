@@ -7,8 +7,8 @@ import (
 	"context"
 	"log"
 
+	"github.com/forrest321/go-tile38-client"
 	geojson "github.com/paulmach/go.geojson"
-	"github.com/xjem/t38c"
 )
 
 func main() {

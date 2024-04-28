@@ -3,7 +3,7 @@ package t38c
 import (
 	"context"
 
-	"github.com/xjem/t38c/transport"
+	"github.com/forrest321/go-tile38-client/transport"
 )
 
 var _ Executor = (*transport.Radix)(nil)
