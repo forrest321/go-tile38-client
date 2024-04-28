@@ -1,4 +1,4 @@
-module github.com/xjem/t38c
+module github.com/forrest321/go-tile38-client
 
 go 1.14
 
